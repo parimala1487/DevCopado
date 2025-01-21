@@ -7,4 +7,12 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+     <fields>
+        <fullName>Field_Six__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Field Six</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+
 </CustomObject>
